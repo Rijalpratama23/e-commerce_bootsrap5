@@ -1,0 +1,35 @@
+body {
+    height: 2222px;
+}
+#home {
+    background-image: url(/img/bakery-cake-flowerpot-indoors-hd-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}  
+#home h1 p {
+    -webkit-text-stroke: #f38c0e;
+}
+#home div {
+    padding-top: 17%;
+} 
+#home button {
+    background-color: #f38c0e;
+    color: #fff;
+    border: 1px solid black;
+}
+#home button:hover {
+    background-color: #f4a341;
+}
+h3 {
+    color:#f38c0e;
+}
+nav {
+    background-color: #f38c0e;
+}
+.jumbotron form {
+    max-width: 36rem;
+}
+.content {
+    width: 295px;
+}
