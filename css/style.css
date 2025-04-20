@@ -1,6 +1,4 @@
-body {
-    height: 2222px;
-}
+
 #home {
     background-image: url(/img/bakery-cake-flowerpot-indoors-hd-wallpaper-preview.jpg);
     background-repeat: no-repeat;
@@ -26,6 +24,9 @@ h3 {
 }
 nav {
     background-color: #f38c0e;
+}
+nav input {
+    max-width: 500px;
 }
 .jumbotron form {
     max-width: 36rem;
